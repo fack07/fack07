@@ -1,6 +1,8 @@
 # Bem vindo ao meu perfil GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fack07&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fack07)
+
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=fack07)](https://github.com/fack07/github-readme-stats)
 
 ## Contatos:
 
